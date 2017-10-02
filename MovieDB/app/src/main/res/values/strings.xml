@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="search">Search</string>
+    <string name="json_movie_id">id</string>
+    <string name="json_movie_vote_avrg">vote_average</string>
+    <string name="json_movie_title">title</string>
+    <string name="json_movie_poster_path">poster_path</string>
+    <string name="json_movie_success">success</string>
+    <string name="json_error_message">status_message</string>
+    <string name="json_movie_results_obj">results</string>
+    <string name="title_activity_movie_db">MovieDBActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="PopularMovies">Popular Movies</string>
+    <string name="top_rated">Top Rated</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
